@@ -17,6 +17,7 @@ http://www.nyu.edu/projects/bowman/multinli/
 
 4 - Next download the weights for the two models: 
    Linguistics model - https://drive.google.com/open?id=1-symK6E-LRN_SW2Gnr0Z0xraA6FW0vC4
+   
    Stance Detection model - https://drive.google.com/open?id=1-dYTRCO59vIjOMEaZYzhjbngxFvo-jsK
 
 5 - Finally, run the code in ```Combined_models.ipynb```. 
