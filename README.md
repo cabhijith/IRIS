@@ -5,23 +5,30 @@ This is a repoistory storing the weights and scripts to reproduce the results pr
 The results achieved and the methadologies used can be found at ```Final_Data_Book.pdf```
 To reproduce the results, please follow the instructions below. 
 
-1 - Download the SNLI and MultiNLI datasets from the two corresponding links:
+### Contents:
+1) Weights
+2) Scripts
+3) RealNet dataset
+4) Data book
+
+
+1 - <b>Download the SNLI and MultiNLI datasets from the two corresponding links:</b>
 
 https://nlp.stanford.edu/projects/snli/
 
 http://www.nyu.edu/projects/bowman/multinli/
 
-2 - Download and extract a set of features used as input to the model: https://mega.nz/#!08IyyKrT!rfsor4KQSPX0OCBAMhIzqhfOLkRZQBAN5BqqiIJXdrA
+2 - <b>Download and extract a set of features used as input to the model</b>: https://mega.nz/#!08IyyKrT!rfsor4KQSPX0OCBAMhIzqhfOLkRZQBAN5BqqiIJXdrA
 
-3 - Download the features generated from here: https://mega.nz/#!tlAG3abL!hoPZhr7X5M1ifuPaXSAaNExuAz8DdEHHdV3EC5PSojE
+3 - <b>Download the features generated from here</b>: https://mega.nz/#!tlAG3abL!hoPZhr7X5M1ifuPaXSAaNExuAz8DdEHHdV3EC5PSojE
 
-4 - Next download the weights for the two models: 
+4 - <b>Next download the weights for the two models</b>: 
 
    Linguistics model - https://drive.google.com/open?id=1-symK6E-LRN_SW2Gnr0Z0xraA6FW0vC4
    
    Stance Detection model - https://drive.google.com/open?id=1-dYTRCO59vIjOMEaZYzhjbngxFvo-jsK
 
-5 - Finally, run the code in ```Combined_models.ipynb```. 
+5 - <b>Finally, run the code in ```Combined_models.ipynb```</b>. 
 
 Use the ```RealNet``` dataset to test and benchmark the results. 
 
