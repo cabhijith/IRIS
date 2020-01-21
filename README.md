@@ -16,9 +16,7 @@ http://www.nyu.edu/projects/bowman/multinli/
 3 - Download the features generated from here: https://mega.nz/#!tlAG3abL!hoPZhr7X5M1ifuPaXSAaNExuAz8DdEHHdV3EC5PSojE
 
 4 - Next download the weights for the two models: 
-
    Linguistics model - https://drive.google.com/open?id=1-symK6E-LRN_SW2Gnr0Z0xraA6FW0vC4
-   
    Stance Detection model - https://drive.google.com/open?id=1-dYTRCO59vIjOMEaZYzhjbngxFvo-jsK
 
 5 - Finally, run the code in ```Combined_models.ipynb```. 
