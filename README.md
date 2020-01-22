@@ -1,7 +1,7 @@
 # IRIS 2020
 ## A novel, multi-model, data first, chrome extension and WhatsApp based approach to fake news
 
-This is a repoistory storing the weights and scripts to reproduce the results presented at IRIS 2020. 
+This is a repoistory storing the weights and scripts to <b>reproduce</b> the results presented at IRIS 2020. 
 The results achieved and the methadologies used can be found at ```Final_Data_Book.pdf```
 To reproduce the results, please follow the instructions below. 
 
