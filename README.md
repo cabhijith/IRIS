@@ -28,7 +28,7 @@ http://www.nyu.edu/projects/bowman/multinli/
    
    Stance Detection model - https://drive.google.com/open?id=1-dYTRCO59vIjOMEaZYzhjbngxFvo-jsK
 
-5 - <b>Finally, run the code in ```Combined_models.ipynb```</b>. 
+5 - <b>Finally, run the code in ```Combined.ipynb```</b>. 
 
 Use the ```RealNet``` dataset to test and benchmark the results. 
 
